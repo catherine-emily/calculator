@@ -1,3 +1,5 @@
 print("add")
 print("subtract")
 print("mul")
+print("div")
+print("mod")
